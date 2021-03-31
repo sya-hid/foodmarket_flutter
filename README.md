@@ -1,6 +1,7 @@
 # foodmarket_flutter
 
-A new Flutter project.
+Tutorial by Builth With Angga.
+- Flutter : 1.22.6.
 
 ## Getting Started
 
